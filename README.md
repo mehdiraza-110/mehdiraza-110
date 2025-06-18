@@ -76,10 +76,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQEWX4Vc81hvUg/profile-displayphoto-shrink_800_800/B4DZPBphFeGUAc-/0/1734120707307?e=1755129600&v=beta&t=YgfilJ13sDzeGGXlKn8asHJrahXm7TCVpnNyNpTPyDg"  />
-
-###
-
 <div align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -100,12 +96,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mehdiraza-110/mehdiraza-110/output/snake.svg" alt="Snake animation" />
 
 ###
 
